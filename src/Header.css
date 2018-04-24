@@ -1,0 +1,41 @@
+* {
+    font-family: helvetica;
+    margin: 0;
+    padding:  0;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+/* .header-container {
+    width: 65%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 10px;
+}
+
+.title-container {
+    text-align: center;
+    width: 100%;
+}
+
+.upgrade-container {
+    width: 17%;
+}
+
+.upgrade-container a {
+    color: #c9c9c9;
+    line-height: 40px;
+    padding: 3px 14px;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+.profile-container {
+    width: 20%;
+}
+
+.profile-container a {
+    line-height: 40px;
+
+} */
